@@ -8,6 +8,10 @@ Ask Francois is an internal legal knowledge tool designed to help HR team member
 ![Status](https://img.shields.io/badge/status-WIP-orange)
 ![Language](https://img.shields.io/badge/Language-English-blue)
 
+🔗 **Live preview**: [https://seravilofr.github.io/Ask-Francois/](https://seravilofr.github.io/Ask-Francois/)
+
+---
+
 ## 🌍 Features
 
 - Dropdown by theme (dismissal, social dialogue, equality…)
@@ -15,6 +19,8 @@ Ask Francois is an internal legal knowledge tool designed to help HR team member
 - Legal fiches by country (in plain language)
 - Chatbot for interactive legal Q&A (bottom right)
 - 100% in English
+
+---
 
 ## 🛠️ Project Roadmap
 
@@ -38,4 +44,3 @@ Ask Francois is an internal legal knowledge tool designed to help HR team member
 - GitHub Pages (hosting)
 - OpenAI API for chatbot
 - Notion/Trello for tracking tasks
-
