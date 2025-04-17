@@ -1,13 +1,12 @@
 # Ask Francois – Labour Law Internal Tool
 
+Ask Francois is an internal legal knowledge tool designed to help HR team members quickly access labour law information by theme and by country (France & Netherlands mainly).
+
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
 ![JSON](https://img.shields.io/badge/Content-JSON-lightgrey?logo=json)
 ![Status](https://img.shields.io/badge/status-WIP-orange)
 ![Language](https://img.shields.io/badge/Language-English-blue)
-
-
-Ask Francois is an internal legal knowledge tool designed to help HR team members quickly access labour law information by theme and by country (France & Netherlands mainly).
 
 ## 🌍 Features
 
