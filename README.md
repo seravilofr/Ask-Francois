@@ -29,22 +29,6 @@ Ask Francois is an internal legal knowledge tool designed to help HR team member
 | 7. User Testing & Feedback | Ask colleagues for feedback, note pain points, and refine accordingly. |
 | 8. Maintenance & Evolutions | Plan long-term updates, new features (like FAQ, export, etc.), and bug fixes. |
 
-## ✅ Task Board (Kanban Style)
-
-```
-| Task                                   | Status   |
-|:---------------------------------------|:---------|
-| Create repository on GitHub            | Done     |
-| Design homepage structure (index.html) | To Do    |
-| Write fiche template in fiches.json    | To Do    |
-| Develop search function in JavaScript  | To Do    |
-| Display fiche data by theme/country    | To Do    |
-| Integrate chatbot (OpenAI API)         | To Do    |
-| Publish site via GitHub Pages          | To Do    |
-| Collect feedback from 3 colleagues     | To Do    |
-| Update fiches with real content        | To Do    |
-```
-
 ---
 
 ## 🧑‍💻 Stack (Suggestions)
